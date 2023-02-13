@@ -6,8 +6,7 @@
 - 🧑‍🎓I'm currently student at GMR Institute of Technology, pursuing my B.Tech degree.  
   
 
-- ❓I'm currently learning NLP, transformers etc.  
-  
+- ❓I'm currently learning NLP, transformers etc.   
 
 - 🖥️Areas of Interest: Machine Learning, Deep Learning  
 -  How to reach me: jyothisandrani2002@gmail.com<br>
